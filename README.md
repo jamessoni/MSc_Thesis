@@ -12,5 +12,7 @@ The project entails predictive modelling with use of a Generative Adversarial Ne
 
 Isosurface contour gif comparisons of the predictive models, PredGAN and DA-PredGAN with the Fluidity CFD shown below. 
 
+<a href="#"><img src="https://github.com/acse-2020/acse2020-acse9-finalreport-acse-jsi18/blob/master/animations/animation.gif" width="600"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 </br>
 The system is written in the programming language, Python, maximising the advantages of Machine Learning libraries, use of Google Colab's GPU's, and for graphical post-processing.
