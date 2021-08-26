@@ -5,7 +5,7 @@ Embedding Sensor information into Generative Adversarial Networks to determine C
 #### MSc in Applied Computational Science and Engineering 
 #### Jamesson Ipock (Github: acse-jsi18)
 </br>
-This repository contains the report, code and documentation which sees the development and implementation of predictive PredGAN and DA-PredGAN models. 
+This repository contains the report, code and documentation which demonstrates the development and implementation of spatio-temporal predictive PredGAN and DA-PredGAN models. 
 
 ------------------------
 
@@ -17,7 +17,7 @@ The project entails predictive modelling with use of a Generative Adversarial Ne
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://github.com/acse-2020/acse2020-acse9-finalreport-acse-jsi18/blob/master/animations/animation.gif" width="600"></a>&nbsp;&nbsp;&nbsp;
 
 </br>
-The system is written in the programming language, Python, maximising the advantages of Machine Learning libraries, use of Google Colab's GPU's, and for graphical post-processing.
+The system is written in the programming language, Python3, maximising the advantages of Machine Learning libraries, use of Google Colab's GPU's, and for graphical post-processing.
 </br></br>
 
 Repository structure
@@ -42,7 +42,7 @@ The repository further includes a *license.txt*, *requirements.txt*.
 Installation
 Clone or download the [Research Project Repository](https://github.com/acse-2020/acse2020-acse9-finalreport-acse-jsi18.git) to your local machine
 
-Requires having vtktools.py and tools_io.py within the local repository, from the open-source [Fluidity](https://github.com/FluidityProject/fluidity) Computation Fluid Dynamics software package. 
+Requires having *vtktools.py* and *tools_io.py* within the local repository, from the open-source [Fluidity](https://github.com/FluidityProject/fluidity) Computation Fluid Dynamics software package. 
 
 To execute the .ipynb scripts:
 Open the scripts in a jupyter notebook instance and click:
