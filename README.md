@@ -14,7 +14,7 @@ The project entails predictive modelling with use of a Generative Adversarial Ne
 
 Isosurface contour gif comparisons between the CFD Fluidity (Top) and the predictive models, DA-PredGAN (Center) and PredGAN (Bottom) with the Fluidity CFD shown below. 
 
-<a href="#"><img src="https://github.com/acse-2020/acse2020-acse9-finalreport-acse-jsi18/blob/master/animations/animation.gif" width="600"></a>&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://github.com/acse-2020/acse2020-acse9-finalreport-acse-jsi18/blob/master/animations/animation.gif" width="600"></a>&nbsp;&nbsp;&nbsp;
 
 </br>
 The system is written in the programming language, Python, maximising the advantages of Machine Learning libraries, use of Google Colab's GPU's, and for graphical post-processing.
@@ -22,7 +22,14 @@ The system is written in the programming language, Python, maximising the advant
 
 Repository structure
 --------------------------
-Within the repository there exists \textbf{seven}
+Within the repository there exists seven jupyter notebook, an animation folder and a README.md file.
+Notebooks:
+* Load_data.ipynb
+* POD_Compression.ipynb
+* Extract_Sensors.ipynb
+* Enhanced_Train_GAN.ipynb
+* PredGAN_Enhanced.ipynb
+* DA-PredGAN_Enhanced.ipynb
 
 ### Getting started / Pre-requisites
 ----------------------------------
