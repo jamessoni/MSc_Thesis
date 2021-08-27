@@ -1,7 +1,7 @@
-Embedding Sensor information into Generative Adversarial Networks to determine COVID-19 infection risks in enclosed spaces
+## Embedding Sensor information into Generative Adversarial Networks to determine COVID-19 infection risks in enclosed spaces
 =======================
 
-## Independent Research Project (ACSE-9) </br>
+#### Independent Research Project (ACSE-9) </br>
 #### MSc in Applied Computational Science and Engineering 
 #### Jamesson Ipock (Github: acse-jsi18)
 </br>
@@ -31,33 +31,35 @@ Notebooks:
 * PredGAN_Enhanced.ipynb
 * DA-PredGAN_Enhanced.ipynb
 
-The predictive model notebooks exist as *PredGAN_Enhanced.ipynb* and *DA-PredGAN_Enhanced.ipynb*, however the other notebooks are vital for to produce the saved variables (e.g. .pkl file of POD coefficients etc.) necessary for the models to run.
+The predictive model notebooks exist as *PredGAN_Enhanced.ipynb* and *DA-PredGAN_Enhanced.ipynb*, however the other notebooks are vital to produce the saved variables (e.g. POD coefficients etc.) necessary.
 
 Additionally, *Results.ipynb* notebook exists within the repository, highlighting some of the most important plots produced and those found within the report.
 
-The repository further includes a *license.txt*, *requirements.txt*. 
+Functionality of the system requires calling functions from *vtktools.py* and *tools_io.py*, python scripts from the open-source [Fluidity](https://github.com/FluidityProject/fluidity) Computation Fluid Dynamics software package. This is therefore placed within the repository for ease of availability.
+
+The repository further includes a *license.txt* and *requirements.txt* files. 
+
+For further reading please refer to the [documentation].
 
 ### Getting started / Pre-requisites
 ----------------------------------
-Installation
+Although the notebooks can be run locally it is the recommendation to use the Google Colab platform, as use of the GPU's can significant reduce run time.
+
+#### Installation
 Clone or download the [Research Project Repository](https://github.com/acse-2020/acse2020-acse9-finalreport-acse-jsi18.git) to your local machine
 
-Requires having *vtktools.py* and *tools_io.py* within the local repository, from the open-source [Fluidity](https://github.com/FluidityProject/fluidity) Computation Fluid Dynamics software package. 
+
+Change to the cloned directory.
+
+    pip install -r requirements.txt
+
+Ensure to *execute* the scripts in the order at which they are presented in the section above. This is due to dependency variables being defined and saved by each notebook.
 
 To execute the .ipynb scripts:
 Open the scripts in a jupyter notebook instance and click:
     
-    Run or Run all
-Command line:
-     
-     $jupyter nbconvert --to notebook --execute <notebookfilename>.ipynb
+    Run / Run all
 
-''' NEED BELOW??
+Note: The first two cells are commented and should remain as such unless using the Google Colab (recommended) platform.
 
-Requirements/dependencies</br>
-To install the packages/requirements:
-
-     $ conda env create -f environment.yml 
-     $ conda activate py3ml
-     $ python -m ipykernel install --user --name=python3
-
+License: GNU General Public License v3.0
