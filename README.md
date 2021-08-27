@@ -5,7 +5,7 @@
 #### MSc in Applied Computational Science and Engineering 
 #### Jamesson Ipock (Github: acse-jsi18)
 </br>
-This repository contains the report, code and documentation which demonstrates the development and implementation of spatio-temporal predictive PredGAN and DA-PredGAN models. 
+This repository contains the report, code and documentation for the development of predictive models, PredGAN and DA-PredGAN, used to determine the spread of viral infection in enclosed spaces. 
 
 ------------------------
 
