@@ -1,5 +1,5 @@
 ## Embedding Sensor information into Generative Adversarial Networks to determine COVID-19 infection risks in enclosed spaces
-=======================
+---------------------------
 
 #### Independent Research Project (ACSE-9) </br>
 #### MSc in Applied Computational Science and Engineering 
