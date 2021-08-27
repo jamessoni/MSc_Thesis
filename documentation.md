@@ -79,3 +79,5 @@ Main test cases carried out: </br>
 (3) Use of experimental (real) dataset. Analysing convergence of the predictive models (PredGAN, DA-PredGAN) against experimental data.
 
 Spatio-temporal plots are evaluated within the report and produced within the Results.ipynb notebook. Further isosurface plots presents the evolution of the spread across the entirety of the enclosed space.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://github.com/acse-2020/acse2020-acse9-finalreport-acse-jsi18/blob/master/animations/RMSE_ExperimentalObs.png?raw=true" width="600"></a>&nbsp;&nbsp;&nbsp;
