@@ -39,7 +39,7 @@ Functionality of the system requires calling functions from *vtktools.py* and *t
 
 The repository further includes a *license.txt* and *requirements.txt* files. 
 
-For further reading please refer to the [documentation].
+For further reading please refer to the [documentation](https://github.com/acse-2020/acse2020-acse9-finalreport-acse-jsi18/blob/master/documentation.md).
 
 ### Getting started / Pre-requisites
 ----------------------------------
