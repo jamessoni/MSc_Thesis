@@ -14,7 +14,7 @@ The project entails predictive modelling with use of a Generative Adversarial Ne
 
 **Isosurface contour gif** comparisons between the CFD Fluidity (Top) and the predictive models, DA-PredGAN (Center) and PredGAN (Bottom) with the Fluidity CFD shown below. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://github.com/acse-2020/acse2020-acse9-finalreport-acse-jsi18/blob/master/animations/animation.gif" width="600"></a>&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://github.com/jamessoni/MSc_Thesis/blob/master/animations/animation.gif" width="600"></a>&nbsp;&nbsp;&nbsp;
 
 </br>
 The system is written in the programming language, Python3, maximising the advantages of Machine Learning libraries, use of Google Colab's GPU's, and for graphical post-processing.
@@ -39,14 +39,14 @@ Functionality of the system requires calling functions from *vtktools.py* and *t
 
 The repository further includes a *license.txt* and *requirements.txt* files. 
 
-For further reading please refer to the [documentation](https://github.com/acse-2020/acse2020-acse9-finalreport-acse-jsi18/blob/master/documentation.md).
+For further reading please refer to the [documentation](https://github.com/jamessoni/MSc_Thesis/blob/master/documentation.md).
 
 ### Getting started / Pre-requisites
 ----------------------------------
 Although the notebooks can be run locally it is the recommendation to use the Google Colab platform, as use of the GPU's can significant reduce run time.
 
 #### Installation
-Clone or download the [Research Project Repository](https://github.com/acse-2020/acse2020-acse9-finalreport-acse-jsi18.git) to your local machine
+Clone or download the [Research Project Repository](https://github.com/jamessoni/MSc_Thesis.git) to your local machine
 
 
 Change to the cloned directory.
