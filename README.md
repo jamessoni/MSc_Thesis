@@ -62,4 +62,7 @@ Open the scripts in a jupyter notebook instance and click:
 
 Note: The first two cells are commented and should remain as such unless using the Google Colab (recommended) platform.
 
+#### Acknowledgements
+A very grateful thanks to my project supervisors Dr. Claire E. Heaney, Dr. Laetitia Mottet and Professor Christopher Pain for their guidance throughout.
+
 License: GNU General Public License v3.0
